@@ -1,0 +1,26 @@
+.services-item-details-container {
+  font-family: 'Your Chosen Font', sans-serif; 
+  transition: background-color 0.3s ease-in-out;
+}
+
+.services-details-card-heading,
+.services-benefit-heading,
+.request-heading-services {
+  color: black; 
+  font-size: 30px; 
+}
+
+.services-details-card-para,
+.services-benefit-para {
+  color: gray; 
+font-size: 16px; 
+}
+
+.btn-contact {
+background-color: #007bff; 
+color: #fff;  
+}
+
+.btn-contact:hover {
+background-color: #0056b3; 
+}
